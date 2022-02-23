@@ -1,3 +1,5 @@
+import {Vector2d} from "./lib/modules/math/vector2.js";
+
 function DijkstraSim(){
 
     const canvasElm = document.querySelector("canvas");
@@ -7,7 +9,10 @@ function DijkstraSim(){
 
     this.start = () => {
 
-
+        let vect1 = new Vector2d(1.9,1.5);
+        let vect2 = new Vector2d(0.8,0.5);
+        
+        
     };
 };
 
