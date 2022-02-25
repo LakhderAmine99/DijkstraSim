@@ -75,6 +75,13 @@ class Vector2d {
         return this.#x;
     }
 
+    set(x,y){
+        
+        this.#x = x;
+        this.#y = y;
+        return this;
+    }
+
     /**
      * 
      * @returns 
