@@ -2,4 +2,4 @@
 
 an algorithm visualiser app .
 
-## Under Development.
+## Under Development
